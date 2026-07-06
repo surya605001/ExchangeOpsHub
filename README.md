@@ -4,7 +4,7 @@
 >
 > A practical, community-driven documentation project focused on Microsoft Exchange Server administration, operations, troubleshooting, PowerShell, and production support.
 
----
+
 
 ## Project Status
 
@@ -16,7 +16,7 @@
 | Primary Platform   | Microsoft Exchange Server |
 | License            | MIT (to be added)         |
 
----
+
 
 # Welcome
 
@@ -28,13 +28,13 @@ Rather than being a collection of notes, this repository is designed as a struct
 
 The long-term goal is to build a resource that is useful for both learning and real-world Exchange administration.
 
----
+
 
 # Vision
 
 To build one of the most practical and comprehensive Exchange Server Operations Knowledge Bases available to the technical community.
 
----
+
 
 # Mission
 
@@ -49,7 +49,6 @@ ExchangeOpsHub aims to help engineers:
 * Build operational documentation.
 * Follow consistent runbooks and best practices.
 
----
 
 # Supported Platforms
 
@@ -66,7 +65,6 @@ Future scope:
 * Microsoft 365 integration
 * PowerShell automation
 
----
 
 # Repository Objectives
 
@@ -84,7 +82,6 @@ ExchangeOpsHub is being built to provide:
 * Architecture diagrams
 * Interview preparation material
 
----
 
 # Repository Structure
 ```text
@@ -115,9 +112,7 @@ ExchangeOpsHub/
 ├── tools/
 ├── assets/
 └── exports/
-```
 
----
 
 # Documentation Modules
 
@@ -140,7 +135,7 @@ ExchangeOpsHub/
 | Troubleshooting         | Operational troubleshooting guides                 |
 | Templates               | KT, RCA, Health Check and documentation templates  |
 
----
+
 
 # Learning Path
 
@@ -159,7 +154,7 @@ Recommended order of study:
 11. Production Operations
 12. Automation
 
----
+
 
 # Documentation Standard
 
@@ -182,7 +177,6 @@ Every technical article in this repository follows the same structure.
 
 This consistency makes the documentation easier to maintain and easier to learn from.
 
----
 
 # Repository Principles
 
@@ -208,7 +202,6 @@ Continuously refine documentation based on practical experience and official gui
 
 Create documentation that is reusable and valuable to the wider Exchange community.
 
----
 
 # Planned Repository Contents
 
@@ -241,7 +234,7 @@ The repository will gradually include:
 | PowerShell         | Administration & Automation |
 | Visual Studio Code | Authoring                   |
 
----
+
 
 # Project Roadmap
 
@@ -274,7 +267,6 @@ The repository will gradually include:
 * Runbooks
 * Automation Toolkit
 
----
 
 # Contribution
 
@@ -282,7 +274,7 @@ Contributions will be welcome after the repository foundation is complete.
 
 Contribution guidelines will be published in `CONTRIBUTING.md`.
 
----
+
 
 # References
 
@@ -294,7 +286,7 @@ Whenever possible, technical guidance in this repository will be based on:
 
 Community resources may be referenced where appropriate and clearly identified.
 
----
+
 
 # Disclaimer
 
@@ -302,13 +294,13 @@ This repository is intended for educational and operational guidance.
 
 Always validate commands, procedures, and configuration changes in a non-production environment whenever possible before applying them to production systems.
 
----
+
 
 # Project Philosophy
 
 > **Understand First. Change Second. Document Always.**
 
----
+
 
 # Future Enhancements
 
@@ -323,16 +315,14 @@ Future releases are planned to include:
 * Troubleshooting decision trees
 * Interview preparation guides
 
----
 
 # Author
 
-**Project Owner:** Sai Subhash
+**Project Owner:** Suryanarayanan
 
 **Repository:** ExchangeOpsHub
 
 Technical content is developed to provide structured, practical guidance for Microsoft Exchange Server administration and operations.
 
----
 
 **ExchangeOpsHub is a long-term project.** Every release will expand the documentation, improve quality, and add practical operational content for Exchange administrators and engineers.

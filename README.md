@@ -328,7 +328,7 @@ Future releases are planned to include:
 
 # Author
 
-**Project Owner:** Sai Subhash
+**Project Owner:** Suryanarayanan
 
 **Repository:** ExchangeOpsHub
 
